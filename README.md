@@ -20,5 +20,7 @@ Each work order can contain a detailed description of the location, task, and ph
 Atmosphere has two other alternative ways to create workers through the use of voice commands and QR codes.
 
 #### Datapoint @ CEHPro (Mar 2019 - May 2019)
-Datapoint was an application designed to help the growth of small bussinesses.
+Datapoint was an application designed to help the growth of small businesses.
+Its goal was to take the information received through service estimate forms on the landing pages of our partners (business owners) website and immediately notify them of potential clients.
+The team was composed of two developers, my partner Clark Maxam who was in charge of the web development and business aspect of the project and myself responsible for the mobile and backend development portion of the project. 
 
