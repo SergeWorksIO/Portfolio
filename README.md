@@ -37,4 +37,9 @@ Application is under development and specifics cannot be provided for monetizati
 Rage Cage was my first application deployed in the Apple App Store. It was a hyper-casual game in which a ping pong ball is bounced on a surface and attempted to fall in the opening of a line of moving cup stacks.
 The nature of the game was very challenging and competitive and took inspiration from the famous game Flappy Bird. 
  This application was also my first attempt to advertise and monetize my work. The game managed to make me some money and gave me the satisfaction that different people around the world were using my product.
+ 
+ ### School Projects:
+ 
+ #### Cat Tracks (Aug 2018 - Dec 2018) Android
+ 
 
