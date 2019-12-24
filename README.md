@@ -41,6 +41,6 @@ The nature of the game was very challenging and competitive and took inspiration
  ### School Projects:
  
  #### Cat Tracks (Aug 2018 - Dec 2018) Android
-CatTracks was an application designed for the University of California Merced's bus system that provided users (students) a fast and interactive way to reach a desired destination.
+CatTracks was an application designed for the University of California Merced campus that provided students a fast and interactive way to read school's bus schedule.
  
 
