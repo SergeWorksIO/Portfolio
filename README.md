@@ -33,6 +33,7 @@ The team was composed of two developers, my partner Clark Maxam who was in charg
 #### Tunemachine (Nov 2019 - Oct 2019) iOS
 Application is under development and specifics cannot be provided for monetization purposes.
 
+<img src="/Assets/RageCage.png" width="250"> 
 #### Rage Cage (Aug 2018 - Dec 2018) iOS
 Rage Cage was my first application deployed in the Apple App Store. It was a hyper-casual game in which a ping pong ball is bounced on a surface and attempted to fall in the opening of a line of moving cup stacks.
 The nature of the game was very challenging and competitive and took inspiration from the famous game Flappy Bird. 
