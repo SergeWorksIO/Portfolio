@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/srosendo</br>
 
 
 ### Professional Expereience:
-<img src="/Assets/Atmosphere.png" width="80"> 
+<img src="/Assets/Atmosphere.png" width="60"> 
 
 #### Atmosphere for Skylight @ Site 1001 (May 2019 - Oct 2019) iOS
 Atmosphere is the mobile counterpart to the work order management module provided by Site 1001's  Skylight web application. 
