@@ -33,6 +33,9 @@ The team was composed of two developers, my partner Clark Maxam who was in charg
 #### Tunemachine (Nov 2019 - Oct 2019) iOS
 Application is under development and specifics cannot be provided for monetization purposes.
 
+#### BookSearch (May 2019)
+Book Search is an application powered by the Open Library search API that allows you to browse and bookmark books in the Open Library's website catalog.
+
 <img src="/Assets/RageCage.png" width="200"> 
 
 #### Rage Cage (Aug 2018 - Dec 2018) iOS
