@@ -21,8 +21,10 @@ Atmosphere is the mobile counterpart to the work order management module provide
 It is a user permission-based and allows users to create, read, update, delete, and assign work orders.
 Each work order can contain a detailed description of the location, task, and photos.
 Atmosphere has two other alternative ways to create workers through the use of voice commands and QR codes.
-
-<img src= "/Gifs/Atmosphere/Atmosphere1.gif" width="300">
+<p float="left">
+ <img src= "/Gifs/Atmosphere/Atmosphere1.gif" width="300"> 
+ <img src= "/Gifs/Atmosphere/Atmosphere2.gif" width="300">
+</p>
 
  <img src="/Assets/DataPoint.png" width="200"> 
  
