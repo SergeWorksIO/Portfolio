@@ -43,7 +43,7 @@ The nature of the game was very challenging and competitive and took inspiration
  #### Cat Tracks (Aug 2018 - Dec 2018) Android
 CatTracks was an application built with the purpose of providing students from the University of California Merced a fast and interactive way to read the school's bus schedule. The team was composed of four people; three mobile developers (Luis Mejia, Marylou Robles, and myself) and one backend developer (Kelvin Lewin). As experienced bus riders, our team was aware of the challenges that many students face when trying to use the bus to travel throughout the city of Merced. At the time of development the school provided students a web page containing pdfs of the bus schedule along with a map widget that was very hard to navigate on mobile devices. Our team came up with a simple solution in which users provide their current location and desired destination in the form of a bus stop name or nearest landmark. The application then presented the bus lines connecting both locations as well as departure and arrival times.
 
-#### GoToo
+#### GoToo (Feb 2018 - May 2018)
 
  
 
