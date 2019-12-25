@@ -22,6 +22,8 @@ It is a user permission-based and allows users to create, read, update, delete, 
 Each work order can contain a detailed description of the location, task, and photos.
 Atmosphere has two other alternative ways to create workers through the use of voice commands and QR codes.
 
+<img src= "/Gifs/Atmosphere/Atmosphere1.gif" width="300">
+
  <img src="/Assets/DataPoint.png" width="200"> 
  
 #### Datapoint @ CEHPro (Mar 2019 - May 2019) iOS
