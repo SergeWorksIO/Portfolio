@@ -33,7 +33,7 @@ The team was composed of two developers, my partner Clark Maxam who was in charg
 #### Tunemachine (Nov 2019 - Oct 2019) iOS
 Application is under development and specifics cannot be provided for monetization purposes.
 
-<img src="/Assets/RageCage.png" width="250"> 
+<img src="/Assets/RageCage.png" width="200"> 
 
 #### Rage Cage (Aug 2018 - Dec 2018) iOS
 Rage Cage was my first application deployed in the Apple App Store. It was a hyper-casual game in which a ping pong ball is bounced on a surface and attempted to fall in the opening of a line of moving cup stacks.
@@ -42,8 +42,12 @@ The nature of the game was very challenging and competitive and took inspiration
  
  ### School Projects:
  
+ <img src="/Assets/CatTracks.png" width="200"> 
+ 
  #### Cat Tracks (Aug 2018 - Dec 2018) Android
 CatTracks was an application built with the purpose of providing students from the University of California Merced a fast and interactive way to read the school's bus schedule. The team was composed of four people; three mobile developers (Luis Mejia, Marylou Robles, and myself) and one backend developer (Kelvin Lewin). As experienced bus riders, our team was aware of the challenges that many students face when trying to use the bus to travel throughout the city of Merced. At the time of development the school provided students a web page containing pdfs of the bus schedule along with a map widget that was very hard to navigate on mobile devices. Our team came up with a simple solution in which users provide their current location and desired destination in the form of a bus stop name or nearest landmark. The application then presented the bus lines connecting both locations as well as departure and arrival times.
+
+<img src="/Assets/GoToo.png" width="200"> 
 
 #### GoToo (Feb 2018 - May 2018) iOS
 GoToo was the project that introduced me to mobile development. It was also the first time I  collaborated with a group of developers to try to tackle a bigger problem.  It was a long shot since no one in the group really knew about mobile or backend development. However, it was a great introduction to what actually happens in the real world. There was a lot of planning, prototying, presenting and of course developing. I faced many challenges during this journey but at the end of the day, I knew that mobile development was the career for me.
