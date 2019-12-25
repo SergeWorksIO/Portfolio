@@ -30,6 +30,8 @@ The team was composed of two developers, my partner Clark Maxam who was in charg
 
 ### Personal Projects:
 
+ <img src="/Assets/TuneMachine.png" width="200"> 
+
 #### Tunemachine (Nov 2019 - Oct 2019) iOS
 Application is under development and specifics cannot be provided for monetization purposes.
 
