@@ -21,6 +21,7 @@ Atmosphere is the mobile counterpart to the work order management module provide
 It is a user permission-based and allows users to create, read, update, delete, and assign work orders.
 Each work order can contain a detailed description of the location, task, and photos.
 Atmosphere has two other alternative ways to create workers through the use of voice commands and QR codes.
+
 <p float="left">
  <img src= "/Gifs/Atmosphere/Atmosphere1.gif" width="300"> 
  <img src= "/Gifs/Atmosphere/Atmosphere2.gif" width="300">
@@ -45,6 +46,11 @@ Application is under development and specifics cannot be provided for monetizati
  
 #### BookSearch (May 2019)
 Book Search is an application powered by the Open Library search API that allows you to browse and bookmark books in the Open Library's website catalog.
+
+<p float="left">
+ <img src= "/Gifs/BookSearch/BookSearch-1.gif" width="300"> 
+ <img src= "/Gifs/BookSearch/BookSearch-2.gif" width="300">
+</p>
 
 <img src="/Assets/RageCage.png" width="200"> 
 
