@@ -59,6 +59,10 @@ Rage Cage was my first application deployed in the Apple App Store. It was a hyp
 The nature of the game was very challenging and competitive and took inspiration from the famous game Flappy Bird. 
  This application was also my first attempt to advertise and monetize my work. The game managed to make me some money and gave me the satisfaction that different people around the world were using my product.
  
+ <p float="left">
+ <img src= "/Gifs/RageCage/RageCage.gif" width="300"> 
+</p>
+ 
  ### School Projects:
  
  <img src="/Assets/CatTracks.png" width="200"> 
